@@ -5,3 +5,8 @@ scikit-learn
 google-play-scraper
 jupyter
 pytest
+tqdm
+nltk
+spacy
+seaborn
+transformers
