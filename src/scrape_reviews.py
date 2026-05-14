@@ -1,5 +1,8 @@
 from google_play_scraper import reviews
 import pandas as pd
+import os
+os.makedirs("data/raw", exist_ok=True)
+
 
 apps = {
     "CBE": "com.combanketh.mobilebanking",
