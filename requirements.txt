@@ -10,3 +10,6 @@ nltk
 spacy
 seaborn
 transformers
+psycopg2-binary
+sqlalchemy
+python-dotenv
